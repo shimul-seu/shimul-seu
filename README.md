@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Shimul 👋
 
-<!--
-**shimul-seu/shimul-seu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student at Southeast University. I like building things and learning how computers work from the ground up.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 8086 assembly lab programs, updated weekly: [microprocessor-8086-lab](https://github.com/shimul-seu/microprocessor-8086-lab)
+- Web projects for coursework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+- 8086 Assembly (EMU8086)
+- HTML
+
+## Notes
+I add new work here regularly, so check back later.
